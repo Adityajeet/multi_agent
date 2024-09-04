@@ -1,4 +1,4 @@
-# AI New Generation
+# AI News Generation
 This project automates the process of generating an AI news by leveraging a team of AI agents that fetch, analyze, and compile the latest news stories into a well-formatted markdown document.
 ## Overview
 This project uses the `crewai` framework to manage multiple AI agents that work together to produce a daily AI newsletter. The agents are powered by a large language model (LLM) and are responsible for various tasks such as fetching news, analyzing articles, and compiling the final news.
