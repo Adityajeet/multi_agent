@@ -5,7 +5,7 @@ This project uses the `crewai` framework to manage multiple AI agents that work 
 ## Features
 - **Automated News Fetching**: The `NewsFetcher` agent gathers the latest AI news stories.
 - **Intelligent Analysis**: The `NewsAnalyzer` agent breaks down the news into digestible summaries with critical insights.
-- **Newsletter Compilation**: The `NewsletterCompiler` agent assembles the analyzed content into a well-formatted markdown newsletter.
+- **Newsletter Compilation**: The `NewsletterCompiler` agent assembles the analyzed content into a well-formatted markdown news.
 ## Installation
 To set up this project, follow these steps:
 1. Clone the repository:
